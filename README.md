@@ -1,6 +1,7 @@
 # dxq_rd
 
-# 目录结构
+## 目录结构
+
 ```bash
 |____routes
 | |____users.js
@@ -8,9 +9,11 @@
 | |____company.js
 |____app.js
 |____package.json
+```
 
+## 本地启动服务
 
-# 本地启动服务
-
+```bash
 $ npm install
 $ npm start
+```
